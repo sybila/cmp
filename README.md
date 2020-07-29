@@ -1,4 +1,7 @@
 # CMP
 Comprehensive Modelling Platform
 
-ERD diagram repo
+Consists of 3 parts:
+DATA API
+SERVICE API
+FRONT END
